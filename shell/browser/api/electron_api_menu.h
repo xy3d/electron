@@ -11,6 +11,7 @@
 #include "base/callback.h"
 #include "gin/arguments.h"
 #include "shell/browser/api/electron_api_top_level_window.h"
+#include "shell/browser/api/electron_api_tray.h"
 #include "shell/browser/event_emitter_mixin.h"
 #include "shell/browser/ui/electron_menu_model.h"
 #include "shell/common/gin_helper/constructible.h"
